@@ -14,3 +14,4 @@ payload:
 - DOMAIN-SUFFIX,powdnsa.host
 - DOMAIN-SUFFIX,slitc.net
 - DOMAIN-SUFFIX,bet8590.xyz
+- DOMAIN-WILDCARD,api-al.*
